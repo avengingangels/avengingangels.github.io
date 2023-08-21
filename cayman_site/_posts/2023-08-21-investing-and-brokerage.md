@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Key issues for investing"
 date:   2023-08-21 22:20:57 +1000
 categories: jekyll update
