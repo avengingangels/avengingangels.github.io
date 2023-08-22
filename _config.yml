@@ -10,10 +10,13 @@
 ############################
 
 # Name of website
-title: My Website
+title: Shiv's Website
 
 # Your name to show in the footer
-author: Some Person
+author: Shivana Thiru Moorthy
+
+#Website for base url
+url: https://www.thirumoorthy.com
 
 ###############################################
 # --- List of links in the navigation bar --- #
