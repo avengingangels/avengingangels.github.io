@@ -5,8 +5,8 @@ date:   2023-08-21 22:20:57 +1000
 categories: jekyll update
 ---
 
-Key issues for investing
-
+# Investment setup
+Some things to think about as you're looking to invest
 
 # International vs domestic
 
